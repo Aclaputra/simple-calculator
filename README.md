@@ -1,2 +1,2 @@
-# psychic-robot
+# simple-calculator
 Calculator with PHP
